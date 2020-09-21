@@ -1,4 +1,4 @@
-# M’n Allereerste Website!
+# Galbert of Bruges!
 
 Zie [arthurweststeijn.github.io/allereerste-website](https://arthurweststeijn.github.io/allereerste-website/).
 
