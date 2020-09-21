@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Academic Abstract
 
-You can use the [editor on GitHub](https://github.com/EmyKnikman/allereerste-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmyKnikman/allereerste-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Emy Knikman is in her second year of the MA Medieval History at Utrecht University. She began her academic career with a BA in Dutch Law and BA in Philosophy of Law (at Erasmus University in Rotterdam), in which she also studied the history of philosophy (and dedicated her BA thesis to the history of the counter-enlightenment). She then went on to finish a double MA in civil and procedural law (also at Erasmus University). For her civil law MA, she did her thesis on the history of law. This inspired her to change directions and dedicate her further research to the history of law. For her thesis she wishes to use her knowledge of contracts and apply this to the medieval context.
