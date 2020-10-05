@@ -1,5 +1,5 @@
 html {
-  background-color: #ffcccc;
+  background-color: #fc9a9a;
 }
 
 body {
@@ -25,7 +25,7 @@ a, a:visited {
 h1, h2 {
   display: inline-block;
   border-bottom-style: dotted;
-  border-bottom-color: #48820f;
+  border-bottom-color: #544f4e;
 }
 
 h1 {
